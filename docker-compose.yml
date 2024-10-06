@@ -10,7 +10,7 @@ services:
       dockerfile: Dockerfile
     image: phpds
     container_name: phpds-app
-    command: php src/MainClass.php --foo=two --bar=four
+    command: php src/MainClass.php
     working_dir: /var/www/
     volumes:
       - ./:/var/www

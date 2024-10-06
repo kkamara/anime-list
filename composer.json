@@ -1,7 +1,15 @@
 {
+    "name": "kkamara/anime-list",
+    "authors": [
+        {
+            "name": "Kelvin Kamara",
+            "email": "kamaracomputers@gmail.com",
+            "homepage": "https://kelvinkamara.com"
+        }
+    ],
+    "version": "1.0.0",
+    "description": "(06-Oct-2024) This is a list of top-rated anime. I have watched them all. The order doesn't matter.",
     "require": {
-        "monolog/monolog": "1.0.*",
-        "guzzlehttp/guzzle": "^7.4"
     },
     "autoload": {
         "psr-4": {
@@ -10,7 +18,7 @@
     },
     "scripts": {
         "start": [
-            "@php src/MainClass.php -f=\"foo\" --bar=\"baz\""
+            "@php src/MainClass.php"
         ]
     }
 }

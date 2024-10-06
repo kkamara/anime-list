@@ -15,7 +15,7 @@
 - Monster (2004) (dubbed)
 - Naruto (2002) (dubbed)
 - Phantom: Requiem for the Phantom (2009) (dubbed)
-- Pokémon: The First Movie Mewtwo Strikes Back (2000).
+- Pokémon: The First Movie Mewtwo Strikes Back (2000) (dubbed).
 
 ## Installation
 

@@ -16,7 +16,7 @@ class MainClass extends stdClass
         "Akira (1988) (dubbed)",
         "Berserk (1997) (dubbed)",
         "Bersek Movies (2012 - 2013) (dubbed)",
-        "Pokémon: The First Movie Mewtwo Strikes Back (2000)",
+        "Pokémon: The First Movie Mewtwo Strikes Back (2000) (dubbed)",
         "Monster (2004) (dubbed)",
         "Naruto (2002) (dubbed)",
         "Death Note (2006) (dubbed)",

@@ -2,7 +2,7 @@
 
 # Anime List
 
-(06-Oct-2024) This is a list of top-rated anime. I have watched them all. The order doesn't matter. This list also includes anime movies and live-action movies.
+(06-Oct-2024) This is a list of top-rated anime. I have watched them all. The list is ordered alphabetically. This list includes anime series, anime movies and live-action movies.
 
 - Akira (movie) (1988) (dubbed)
 - Berserk (series) (1997) (dubbed)

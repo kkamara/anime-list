@@ -4,18 +4,18 @@
 
 (06-Oct-2024) This is a list of top-rated anime. I have watched them all. The order doesn't matter. This list also includes anime movies and live-action movies.
 
-- Akira (1988) (dubbed)
-- Bersek Movies (2012 - 2013) (dubbed)
-- Berserk (1997) (dubbed)
-- Claymore (2007) (dubbed)
-- Death Note (2006) (dubbed)
-- Death Note Light Up The New World (2016) (only subtitles, no dubbed exists)
-- Death Note: The Last Name (2006) (dubbed)
-- Highschool of the dead (2010) (dubbed)
-- Monster (2004) (dubbed)
-- Naruto (2002) (dubbed)
-- Phantom: Requiem for the Phantom (2009) (dubbed)
-- Pokémon: The First Movie Mewtwo Strikes Back (2000) (dubbed).
+- Akira (movie) (1988) (dubbed)
+- Berserk (series) (1997) (dubbed)
+- Berserk: The Golden Age Arc trilogy (movies) (2012 - 2013) (dubbed)
+- Claymore (series) (2007) (dubbed)
+- Death Note (series) (2006) (dubbed)
+- Death Note Light Up The New World (movie) (2016) (only subtitles, no dubbed exists)
+- Death Note: The Last Name (movie) (2006) (dubbed)
+- Highschool of the dead (series) (2010) (dubbed)
+- Monster (series) (2004) (dubbed)
+- Naruto (series) (2002) (dubbed)
+- Phantom: Requiem for the Phantom (series) (2009) (dubbed)
+- Pokémon: The First Movie Mewtwo Strikes Back (movie) (2000) (dubbed).
 
 ## Installation
 

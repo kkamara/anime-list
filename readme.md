@@ -9,7 +9,7 @@
 - Berserk: The Golden Age Arc trilogy (movies) (2012 - 2013) (dubbed)
 - Claymore (series) (2007) (dubbed)
 - Death Note (series) (2006) (dubbed)
-- Death Note Light Up The New World (movie) (2016) (only subtitles, no dubbed exists)
+- Death Note Light Up the New World (movie) (2016) (only subtitles, no dubbed exists)
 - Death Note: The Last Name (movie) (2006) (dubbed)
 - Highschool of the Dead (series) (2010) (dubbed)
 - Monster (series) (2004) (dubbed)

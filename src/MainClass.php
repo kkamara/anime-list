@@ -20,7 +20,7 @@ class MainClass extends stdClass
         "Monster (series) (2004) (dubbed)",
         "Naruto (series) (2002) (dubbed)",
         "Death Note (series) (2006) (dubbed)",
-        "Death Note Light Up The New World (movie) (2016) (only subtitles, no dubbed exists)",
+        "Death Note Light Up the New World (movie) (2016) (only subtitles, no dubbed exists)",
         "Death Note: The Last Name (movie) (2006) (dubbed)",
         "Claymore (series) (2007) (dubbed)",
         "Highschool of the Dead (series) (2010) (dubbed)",

@@ -11,7 +11,7 @@
 - Death Note (series) (2006) (dubbed)
 - Death Note Light Up The New World (movie) (2016) (only subtitles, no dubbed exists)
 - Death Note: The Last Name (movie) (2006) (dubbed)
-- Highschool of the dead (series) (2010) (dubbed)
+- Highschool of the Dead (series) (2010) (dubbed)
 - Monster (series) (2004) (dubbed)
 - Naruto (series) (2002) (dubbed)
 - Phantom: Requiem for the Phantom (series) (2009) (dubbed)

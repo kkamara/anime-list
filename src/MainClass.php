@@ -23,7 +23,7 @@ class MainClass extends stdClass
         "Death Note Light Up The New World (movie) (2016) (only subtitles, no dubbed exists)",
         "Death Note: The Last Name (movie) (2006) (dubbed)",
         "Claymore (series) (2007) (dubbed)",
-        "Highschool of the dead (series) (2010) (dubbed)",
+        "Highschool of the Dead (series) (2010) (dubbed)",
         "Phantom: Requiem for the Phantom (series) (2009) (dubbed)",
     ];
 

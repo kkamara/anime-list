@@ -15,7 +15,7 @@ class MainClass extends stdClass
     protected array $animeList = [
         "Akira (movie) (1988) (dubbed)",
         "Berserk (series) (1997) (dubbed)",
-        "Berserk: The Golden Age Arc trilogy (movies) (2012 - 2013) (dubbed)",
+        "Berserk: The Golden Age Arc trilogy (movies) (2012 - 13) (dubbed)",
         "Pokémon: The First Movie Mewtwo Strikes Back (movie) (2000) (dubbed)",
         "Monster (series) (2004) (dubbed)",
         "Naruto (series) (2002) (dubbed)",

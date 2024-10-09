@@ -6,7 +6,7 @@
 
 - Akira (movie) (1988) (dubbed)
 - Berserk (series) (1997) (dubbed)
-- Berserk: The Golden Age Arc trilogy (movies) (2012 - 2013) (dubbed)
+- Berserk: The Golden Age Arc trilogy (movies) (2012 - 13) (dubbed)
 - Claymore (series) (2007) (dubbed)
 - Death Note (series) (2006) (dubbed)
 - Death Note Light Up the New World (movie) (2016) (only subtitles, no dubbed exists)
